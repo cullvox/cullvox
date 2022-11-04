@@ -6,6 +6,9 @@
 **Programming is my passion.**
 **I like to make entertainment with technology and tools for humans.** <br>
 
+![skfCdbar](https://user-images.githubusercontent.com/68567525/200047083-e690f328-2a30-4cc7-a8f8-9971975660f4.gif)
+
+
 <br><br>
 ![text (7)](https://user-images.githubusercontent.com/68567525/199876513-617d0d56-5911-4118-91e7-85739e8d3e53.gif) <br>
 ✍️ <b>Working on: Maginvox <br>
