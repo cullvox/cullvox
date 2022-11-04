@@ -1,7 +1,6 @@
 ![text](https://user-images.githubusercontent.com/68567525/199874854-a2b257d1-9f8e-4175-ab55-11fe95fe5fe5.gif)
 ![text (2)](https://user-images.githubusercontent.com/68567525/199875424-222b5703-8004-45ce-9b62-0997303f1681.gif)
 ![text (3)](https://user-images.githubusercontent.com/68567525/199875488-cc2e58a6-09f5-449a-abea-1f098ff82ed0.gif)
-![text (1)](https://user-images.githubusercontent.com/68567525/199875367-35cf76de-9b33-4280-b2c3-a8b8036ed57e.gif)
 
 **Hello! My name is Caden Miller and I work on projects revolving around C, C++, Linux, Gaming and more!** <br>
 **Programming is my passion.**
