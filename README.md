@@ -3,7 +3,7 @@
   <img align="center" src="https://user-images.githubusercontent.com/68567525/199875488-cc2e58a6-09f5-449a-abea-1f098ff82ed0.gif">
 </p>
   
-<h1 align="center"> Hello! I'm cullvox, aka caden. </h1> <p align=center>and I do things.</p>
+<h1 align="center"> Hello! I'm caden. </h1> <p align=center>and I do things.</p>
 
 <br>
 <p align="center">
