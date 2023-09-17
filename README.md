@@ -13,13 +13,15 @@
   <img src="https://user-images.githubusercontent.com/68567525/199876513-617d0d56-5911-4118-91e7-85739e8d3e53.gif">
 </p>
 <p align="center">
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,html,css,js,linux,ps,pr,unity,unreal">
+  </p>
+
+<p align="center">
 ✍️ <b>Working on: College <br>
 🧠 <b>Currently thinking about: My NixOS Config
 </p>
   
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,html,css,js,linux,ps,pr,unity,unreal">
-  </p>
+
   
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=s8kmbx2jeawhxhot0v9lgrn3r&cover_image=true&theme=default&show_offline=false&background_color=121212">
