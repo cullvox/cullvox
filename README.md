@@ -2,6 +2,7 @@
 <!-- Mastodon -->
 <a rel="me" href="https://mastodon.online/@cullvox"></a>
 
+
 <p align="center">
   <img align="center" src="https://user-images.githubusercontent.com/68567525/199875488-cc2e58a6-09f5-449a-abea-1f098ff82ed0.gif">
 </p>
@@ -26,3 +27,8 @@
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=s8kmbx2jeawhxhot0v9lgrn3r&cover_image=true&theme=default&show_offline=false&background_color=121212">
   </p>
+<br>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/cullvox/count.svg?"  />
+</div>
